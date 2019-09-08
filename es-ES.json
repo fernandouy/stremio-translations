@@ -445,7 +445,7 @@
 	"ADDON_SEARCH": "Buscar Complementos",
 	"ADDON_INSTALL": "Instalar",
 	"ADDON_UNINSTALL": "Desinstalar",
-	"ADDON_UPGRADE": "Upgrade",
+	"ADDON_UPGRADE": "Acrtualizar",
 	"ADDON_INSTALLED": "Instalado",
 	"ADDON_INSTALLED_MSG": "¡Complemento instalado!",
 	"ADDON_UPGRADED_MSG": "¡Complemento actualizado!",
